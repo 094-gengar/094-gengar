@@ -1,10 +1,10 @@
 お布団の中でゲーム∋競技プログラミングをしています
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=094-gengar&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=094-gengar&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=094-gengar&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=094-gengar&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/094-gengar" target="_blank">
