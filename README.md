@@ -1,4 +1,4 @@
-お布団の中でゲーム∋競技プログラミングをしています
+おふとんの中で競技プログラミングとコードゴルフとゲームをしています
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=094-gengar&show_icons=true&theme=tokyonight" />
