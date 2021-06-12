@@ -1,4 +1,4 @@
-お布団の中で競技プログラミングとゲームをしています
+お布団の中でゲーム∋競技プログラミングをしています
 <p>
   <a href="https://twitter.com/gengar094kypro" target="_blank">
     <img alt="Twitter: gengar094kypro" src="https://img.shields.io/twitter/follow/gengar094kypro.svg?style=social" />
