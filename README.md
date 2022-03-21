@@ -9,7 +9,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=094-gengar&layout=compact&langs_count=6" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=094-gengar&repo=cpplib)](https://github.com/094-gengar/library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=094-gengar&repo=library)](https://github.com/094-gengar/library)
 
 <p>
   <a href="https://twitter.com/gengar094kypro" target="_blank">
